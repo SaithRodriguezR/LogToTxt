@@ -33,4 +33,4 @@ COMPILACION
 	- make
 
 EJECUCION
-	./bin/logtotxt nombre_del_archivo.log
+	./bin/logtotxt nombre_archivo.log
